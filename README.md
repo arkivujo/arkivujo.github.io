@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# arkivujo.alfresco.api
+This repository is a series of C# (.NET Standard 2.0) libraries for the Alfresco Client REST API.  It aims to be roughly similar to the Alfresco JavaScript API REST Client to support easily creating Alfresco clients in C#.
 
-You can use the [editor on GitHub](https://github.com/arkivujo/arkivujo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What is "Arkivujo"?
+"Arkivujo" is the Esperanto translation of the English "Filing Cabinet".  The name was chosen as it identifies the goal of a well rounded document management system.  Arkivujo as a github organization will produce a series of libraries, add-on, extensions, and clients that relate to Alfresco Community Edition which is a mature opensource enterprise content management system. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arkivujo/arkivujo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## WARNING
+This project is in a very early stage.  Use at your own risk.
